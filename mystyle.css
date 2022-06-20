@@ -1,0 +1,90 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.first-flex{
+  display: flex;
+}
+.first-minor{
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+}
+.second-minor{
+  flex:1;
+}
+.second-flex{
+  display: flex;
+}
+button{
+  background-color: hsl(322, 100%, 66%);
+  border-radius: 30px;
+  color: white;
+  padding: 1rem;
+}
+.third-minor{
+  flex: 1;
+}
+.fourth-minor{
+  flex: 1;
+}
+.third-flex{
+  display: flex;
+}
+.fifth-minor{
+  flex: 1;
+}
+.sixth-minor{
+  flex: 1;
+}
+.fourth-flex{
+  display: flex;
+}
+.seventh-minor{
+  flex: 1;
+}
+.eight-minor{
+  flex: 1;
+}
+.fifth-flex{
+  display: contents;
+  align-content: center;
+  justify-content: center;
+}
+
+.sixth-flex{
+  display: flex;
+  align-content: center;
+}
+.extra1{
+  flex: 1;
+  align-content: center;
+  color: white;
+  padding-left: 20px;
+}
+.extra2{
+  flex: 1;
+  align-content: center;
+  justify-content: center;
+  color: white;
+  padding-left: 30px;
+}
+.extra3{
+  flex: 1;
+  align-content: center;
+  color: white;
+}
+.extra4{
+  flex:1;
+  align-content: center;
+  color: white;
+}
+
+footer{
+  background-color: hsl(192, 100%, 9%);
+  font: white;
+  padding-top: 100px;
+  padding-bottom: 30px;
+}
